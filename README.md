@@ -11,5 +11,3 @@ Technology Used: HTML/HTML5, CSS/CSS3, Bootstrap 4, JavaScript.
 Duration: Aug, 2019.
 
 URL: https://sumandeyashi.github.io/Webpage_Onload_Custom_Modal_For_Landing_Page/
-
-sss
